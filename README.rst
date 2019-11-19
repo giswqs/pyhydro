@@ -7,7 +7,7 @@ pyhydro
         :target: https://pypi.python.org/pypi/pyhydro
 
 .. image:: https://img.shields.io/travis/giswqs/pyhydro.svg
-        :target: https://travis-ci.org/giswqs/pyhydro
+        :target: https://travis-ci.com/giswqs/pyhydro
 
 .. image:: https://readthedocs.org/projects/pyhydro/badge/?version=latest
         :target: https://pyhydro.readthedocs.io/en/latest/?badge=latest
